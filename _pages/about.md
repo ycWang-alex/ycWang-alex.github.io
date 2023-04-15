@@ -12,7 +12,7 @@ I'm a last year undergraduate student from [School of ICE](https://www.sice.uest
 
 You can find my CV here: [WangYuchao's Curriculum Vitae](../assets/WangYuchao-CV.pdf).
 
-[Email](mailto:2019011213025@std.uestc.edu.cn)  / [Wechat](../images/wechat.jpg)  / [QQ](../images/qq.jpg)
+Email(2019011213025@std.uestc.edu.cn)  / [Wechat](../images/wechat.jpg)  / [QQ](../images/qq.jpg)
 
 Education
 ------
