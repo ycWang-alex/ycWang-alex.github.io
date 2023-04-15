@@ -10,9 +10,9 @@ redirect_from:
 
 I'm a last year undergraduate student from [School of ICE](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My major is Electronic Information Engineering
 
-You can find my CV here: [WangYuchao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [WangYuchao's Curriculum Vitae](../assets/WangYuchao-CV.pdf).
 
-[Email](mailto:2019011213025@std.uestc.edu.cn)  / [Wechat](../images/wechat.jpg) / [QQ](../images/qq.jpg)
+[Email](mailto:2019011213025@std.uestc.edu.cn)  / [Wechat](../images/wechat.jpg)  / [QQ](../images/qq.jpg)
 
 A data-driven personal websiteu
 ======
