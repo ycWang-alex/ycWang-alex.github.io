@@ -27,7 +27,7 @@ University of Electronic Science and Technology of China （2019/08-2023/07）
 
 Research
 ------
-**Critical Node Identification of Cascading Failure Based on Structural Controllability（2022/04-present）[manuscript](../assets/manuscript.pdf)
+Critical Node Identification of Cascading Failure Based on Structural Controllability（2022/04-present） [manuscript](../assets/manuscript.pdf)
 
 Team member   
 
@@ -44,7 +44,7 @@ Team member
 
 Competitions
 ------
-**“Datang Cup” National Mobile Communication 5G Technology Competition for College Students（2021/12-2022/05）
+“Datang Cup” National Mobile Communication 5G Technology Competition for College Students（2021/12-2022/05）
 
 Team member                                                                                  
 
@@ -55,7 +55,7 @@ Team member
 . Improved practical operation ability, self-study ability and search capability
 
 
-**Mathematical Modeling Competition（2019/10-2020/05）
+Mathematical Modeling Competition（2019/10-2020/05）
 
 Team member                                               
 
