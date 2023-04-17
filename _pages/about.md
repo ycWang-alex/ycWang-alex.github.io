@@ -18,11 +18,9 @@ Education
 ------
 University of Electronic Science and Technology of China （2019/08-2023/07）
 
-. GPA: 3.54/4.0 [transcript](../assets/transcript.pdf)
+. GPA: 3.54/4.0 [transcript(English)](../assets/transcript.pdf) [transcript(中文)](../assets/transcript2.pdf)
 
 . Major: Electronic Information Engineering
-
-. Main courses: Frontiers in Wireless Artificial Intelligence, Digital Signal Processing, Digital Radio  System Design, Signal Processing and Music Applications, Experiment of Electronic Circuit, High-level Language Programming, Digital Logic Circuit and System
 
 
 Research
