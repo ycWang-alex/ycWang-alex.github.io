@@ -18,7 +18,7 @@ Education
 ------
 University of Electronic Science and Technology of China （2019/08-2023/07）
 
-. GPA: 3.54/4.0
+. GPA: 3.54/4.0 [transcript](../assets/transcript.pdf)
 
 . Major: Electronic Information Engineering
 
